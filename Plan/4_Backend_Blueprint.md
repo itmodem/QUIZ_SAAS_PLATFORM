@@ -86,23 +86,32 @@ Route access only if valid JWT.
 # 🧩 **3. Milestones (with Time Estimate)**
 
 <h3 style="background-color: green;" >Day 1: Folder + Server Setup</h3>
-- create backend folder  
-- install packages  
-- create server.js  
-- connect MongoDB  
+- create backend folder
+
+- install packages
+
+- create server.js
+
+- connect MongoDB
+
 - test server start
 
 📌 **Time:** 2–3 hours
 
 ---
 
-### ✔ **Day 2: User Model + Register Route**
+<h3 style="background-color: green;" >Day 2: User Model + Register Route</h3>
 
 - make User.js
+
 - create /register route
+
 - validate inputs
+
 - check if user exists
+
 - hash password
+
 - save user in DB
 
 📌 **Time:** 4–5 hours
