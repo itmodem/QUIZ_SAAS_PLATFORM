@@ -118,7 +118,7 @@ Route access only if valid JWT.
 
 ---
 
-### ✔ **Day 3: Login + JWT + Protected Route**
+### <h3 style="background-color: green;" >Day 3: Login + JWT + Protected Route</h3>
 
 - create /login route
 - compare password
